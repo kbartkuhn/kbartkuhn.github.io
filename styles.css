@@ -7,4 +7,5 @@ p {
  .soft {color: #a8a8a8;}
  .center {text-align: center;}
  .container {margin: 0 auto;}
- 
+ .redtext {color:red}
+ .background {color:magneta}
