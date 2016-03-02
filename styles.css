@@ -8,4 +8,11 @@ p {
  .center {text-align: center;}
  .container {margin: 0 auto;}
  .redtext {color:red}
- .background {color:magneta}
+ 
+ table, th, td {
+    border: 1px solid black;
+}table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
